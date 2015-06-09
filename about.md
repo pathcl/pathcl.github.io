@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information.
-
 ### More Information
 
 [My resume](https://github.com/pathcl/docs/blob/master/cvitae_en.pdf)
