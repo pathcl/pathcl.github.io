@@ -10,4 +10,4 @@ permalink: /about/
 
 ### Contact me
 
-[lsanmartinr@gmail.com](mailto:lsanmartinr@gmail.com)
+[luis@sanmartin.io](mailto:luis@sanmartin.io)
