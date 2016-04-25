@@ -23,6 +23,15 @@ body {
   color: $darkGray;
 }
 
+@media only screen and (min-width: 481px) {
+  body {
+    padding-top: 24px;
+    padding-right: 24px;
+    padding-left: 24px;
+  }
+}
+
+
 .container {
   margin: 0 auto;
   max-width: 740px;
