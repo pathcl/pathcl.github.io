@@ -10,10 +10,16 @@ layout: default
      Enjoy problem solving and learning new technologies, self-learner.
      </p>
      <ul>
-      {% for post in site.posts limit:10 %}
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      {% endfor %}
      </ul>
       </div>
     </article>
+    <section id="article">
+{% for post in site.posts limit:1  %}
+{% if forloop.last %}
+  <li>
+    <a href="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  </li>
+{% endif %}
+{% endfor %}
+</article>
 </div>
