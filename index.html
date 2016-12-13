@@ -9,6 +9,11 @@ layout: default
      <p>I'm a professional experienced in Systems, Network and Security Operations.
      Enjoy problem solving and learning new technologies, self-learner.
      </p>
+     <ul>
+      {% for post in site.posts limit:10 %}
+      <li><a href="{{ post.url }}">
+      {% endfor %}
+     </ul>
       </div>
     </article>
 </div>
