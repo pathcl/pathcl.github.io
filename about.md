@@ -6,7 +6,7 @@ permalink: /about/
 
 ### More Information
 
-[My resume](https://github.com/pathcl/docs/blob/master/cvitae_en.pdf)
+[My resume](https://github.com/pathcl/docs/raw/master/cvitae_en.pdf)
 
 ### Contact me
 
