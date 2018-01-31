@@ -13,7 +13,7 @@ Problem:
 
 
 ```
-<script src="https://gist.github.com/pathcl/c7dc7f3ed87fd2c3957e26e8b497b856.js"></script>
+{% gist c7dc7f3ed87fd2c3957e26e8b497b856 %}
 
 ```
 
