@@ -11,11 +11,7 @@ Problem:
 
     > Get hostname for several Dell Force10 S4048
 
-
-```
 {% gist c7dc7f3ed87fd2c3957e26e8b497b856 %}
-
-```
 
 I've hardcoded a lot on purpose. It's your job to use [argsparse](https://docs.python.org/3/library/argparse.html) or whatever you want :)
 
