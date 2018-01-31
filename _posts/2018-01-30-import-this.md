@@ -13,7 +13,7 @@ The challenge is to get as fast as possible hostnames for several Dell Force10 S
 
 I've hardcoded a lot on purpose. It's your job to use [argsparse](https://docs.python.org/3/library/argparse.html) or whatever you want :)
 
-If you want to add more devices edit line 47. Maybe you want to read a file and retrieve a list? or use sqlite3?
+If you would like to add more devices edit line 47. Maybe you want to read a file and retrieve a list? or use sqlite3?
 
 Another approach [here](https://github.com/ktbyers/netmiko/blob/develop/examples/multiprocess_example.py). 
 
