@@ -12,7 +12,7 @@ Problem:
     > Get hostname for several Dell Force10 S4048
 
 
-```
+{% highlight python %}
 #!/usr/bin/env python3
 import concurrent.futures
 import sys
@@ -64,7 +64,7 @@ if __name__ == '__main__':
     process(devices)
     print('Time taken = {0:.5f}'.format(time.time() - start))
 
-```
+{% endhighlight %}
 
 I've hardcoded a lot on purpose. It's your job to use [argsparse](https://docs.python.org/3/library/argparse.html) or whatever you want :)
 
