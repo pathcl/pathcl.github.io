@@ -7,8 +7,7 @@ title: Learning concurrent.futures
 Hello out there! from now on I'll try to share my Python knowledge in this 'blog'. 
 Hopefully this will become an habit and I won't have to think about it.
 
-Problem:
-    > Get hostname for several Dell Force10 S4048
+Problem: Get hostname for several Dell Force10 S4048
 
 {% gist c7dc7f3ed87fd2c3957e26e8b497b856 %}
 
