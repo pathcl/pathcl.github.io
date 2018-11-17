@@ -9,7 +9,7 @@ Hopefully this will become an habit and I won't have to think about it.
 
 The challenge is to get as fast as possible hostnames for several Dell Force10 S4048.
 
-{% gist c7dc7f3ed87fd2c3957e26e8b497b856 %}
+[here](https://gist.github.com/pathcl/c7dc7f3ed87fd2c3957e26e8b497b856)
 
 I've hardcoded a lot on purpose. It's your job to use [argsparse](https://docs.python.org/3/library/argparse.html) or whatever you want :)
 
